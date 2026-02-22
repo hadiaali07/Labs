@@ -1,4 +1,4 @@
-public class Lab07Search {
+public class Lab07 {
     public static void main(String[] args) {
         int[] arr = {14, 27, 35, 48, 56};
         int target = 35;

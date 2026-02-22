@@ -13,4 +13,4 @@ public class lab02 {
             System.out.println();
         }
     }
-}
+}  
